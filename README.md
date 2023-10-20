@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/@lyk19999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lyk19999" height="30" width="40" /></a>
 <a href="https://fb.com/@khim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khim" height="30" width="40" /></a>
-<a href="https://instagram.com/@lyk5_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyk5_5" height="30" width="40" /></a>
+<a href="[https://instagram.com/@lyk5_5](https://instagram.com/lyk5.5?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyk5_5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
