@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hello, I'm Khim</h1>
 <img align="right" alt="city" width="400" src="https://i.pinimg.com/originals/cc/37/49/cc374960737f49da9c015bd87f74d4d2.gif">
 - 🌱 I’m currently learning **Web development**
