@@ -1,5 +1,5 @@
-<img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-25.gif" />
-<h1 align="center">Peng Lykhim</h1>
+
+
 
 <h3 align="left">Social:</h3>
 <p align="left">
